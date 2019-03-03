@@ -15,7 +15,8 @@ $ npm start
 ### Listar
 Método GET
 Ingresar en postman la URL http://node13.codenvy.io:46879/contacts/ y enviar la peticion
-Ejemplo: https://ibb.co/v3gff73
+
+, Ejemplo: https://ibb.co/v3gff73
 
 ### Crear
 Método POST
@@ -28,7 +29,7 @@ Ingresar en postman la URL http://node13.codenvy.io:46879/contacts/ Ingresar en 
 }
 ```
 Y por último enviar la petición
-Ejemplo: https://ibb.co/3f6zwTn
+, Ejemplo: https://ibb.co/3f6zwTn
 
 ### Editar
 Método PUT
@@ -41,12 +42,12 @@ Ingresar en postman la URL http://node13.codenvy.io:46879/contacts/ seguido del 
 }
 ```
 Y por último envias la petición
-Ejemplo: https://ibb.co/51K1WwV
+, Ejemplo: https://ibb.co/51K1WwV
 
 ### Eliminar
 Método DELETE
 Ingresar en postman la URL http://node13.codenvy.io:46879/contacts/ seguido del id del registro que se quiere eliminar (baseURL+/id) y enviar la petición
-Ejemplo: https://ibb.co/7R5Qq7h
+, Ejemplo: https://ibb.co/7R5Qq7h
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
